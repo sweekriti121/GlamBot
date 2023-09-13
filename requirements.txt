@@ -1,0 +1,8 @@
+gensim
+numpy
+scikit-learn
+pandas
+python-dotenv
+openai
+nltk
+Flask
