@@ -27,5 +27,6 @@ python app.py
 * Step 4
 Use the chatbot by clicking on the webpage generated. 
 
-
+### How does the bot look?
+![image](https://github.com/sweekriti121/GlamBot/assets/89648904/301d4bf7-bae4-4d9a-9e1d-c98b52f6d771)
 
